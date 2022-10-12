@@ -95,6 +95,7 @@ factories:
       - make_redstone_lamp
       - pack_ice
       - pack_blue_ice
+      - 
       - repair_aesthetics
   dye_wool:
     type: FCC
